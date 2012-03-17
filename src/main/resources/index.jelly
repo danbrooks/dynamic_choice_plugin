@@ -1,0 +1,6 @@
+<!--
+  This view is used to render the plugin list page.
+-->
+<div>
+  Adds the ability to dynamically generate choices from a shell script.
+</div>
