@@ -6,7 +6,7 @@
     <version>1.399</version><!-- which version of Jenkins is this plugin built against? -->
   </parent>
 
-  <groupId>dpb.jenkins.plugins</groupId>
+  <groupId>dynamic_choice</groupId>
   <artifactId>dynamic_choice_plugin</artifactId>
   <version>1.0</version>
   <packaging>hpi</packaging>
